@@ -1,0 +1,4502 @@
+[
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/15",
+    "availableSeats": 3,
+    "price": 1204,
+    "departureTime": "07:53",
+    "arrivalTime": "12:20"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/09/28",
+    "availableSeats": 7,
+    "price": 1417,
+    "departureTime": "08:48",
+    "arrivalTime": "13:11"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/08",
+    "availableSeats": 8,
+    "price": 1273,
+    "departureTime": "01:23",
+    "arrivalTime": "18:07"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/14",
+    "availableSeats": 2,
+    "price": 1281,
+    "departureTime": "03:28",
+    "arrivalTime": "14:00"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/28",
+    "availableSeats": 5,
+    "price": 1413,
+    "departureTime": "03:33",
+    "arrivalTime": "20:59"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/15",
+    "availableSeats": 6,
+    "price": 1380,
+    "departureTime": "07:54",
+    "arrivalTime": "22:34"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/27",
+    "availableSeats": 6,
+    "price": 1781,
+    "departureTime": "11:28",
+    "arrivalTime": "20:59"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/04",
+    "availableSeats": 5,
+    "price": 1602,
+    "departureTime": "06:56",
+    "arrivalTime": "14:16"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/27",
+    "availableSeats": 6,
+    "price": 1355,
+    "departureTime": "02:54",
+    "arrivalTime": "17:33"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/25",
+    "availableSeats": 9,
+    "price": 1049,
+    "departureTime": "02:50",
+    "arrivalTime": "14:54"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/02",
+    "availableSeats": 7,
+    "price": 1638,
+    "departureTime": "08:59",
+    "arrivalTime": "22:39"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/21",
+    "availableSeats": 10,
+    "price": 1816,
+    "departureTime": "01:56",
+    "arrivalTime": "16:21"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/05",
+    "availableSeats": 4,
+    "price": 1612,
+    "departureTime": "08:54",
+    "arrivalTime": "12:24"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/07",
+    "availableSeats": 7,
+    "price": 1275,
+    "departureTime": "11:44",
+    "arrivalTime": "17:17"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/26",
+    "availableSeats": 5,
+    "price": 1449,
+    "departureTime": "04:09",
+    "arrivalTime": "18:00"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/06",
+    "availableSeats": 9,
+    "price": 1345,
+    "departureTime": "09:22",
+    "arrivalTime": "12:23"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/09/24",
+    "availableSeats": 4,
+    "price": 1380,
+    "departureTime": "03:14",
+    "arrivalTime": "20:39"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/23",
+    "availableSeats": 7,
+    "price": 1563,
+    "departureTime": "03:36",
+    "arrivalTime": "21:09"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/26",
+    "availableSeats": 4,
+    "price": 1628,
+    "departureTime": "08:28",
+    "arrivalTime": "21:35"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/13",
+    "availableSeats": 9,
+    "price": 1880,
+    "departureTime": "03:33",
+    "arrivalTime": "16:52"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/15",
+    "availableSeats": 8,
+    "price": 1425,
+    "departureTime": "11:35",
+    "arrivalTime": "19:49"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/15",
+    "availableSeats": 9,
+    "price": 1046,
+    "departureTime": "08:29",
+    "arrivalTime": "14:56"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/10",
+    "availableSeats": 6,
+    "price": 1452,
+    "departureTime": "06:37",
+    "arrivalTime": "15:44"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/04",
+    "availableSeats": 8,
+    "price": 1239,
+    "departureTime": "12:32",
+    "arrivalTime": "20:54"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/07",
+    "availableSeats": 3,
+    "price": 1289,
+    "departureTime": "02:52",
+    "arrivalTime": "13:29"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/01",
+    "availableSeats": 7,
+    "price": 1901,
+    "departureTime": "05:40",
+    "arrivalTime": "15:07"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/22",
+    "availableSeats": 6,
+    "price": 1459,
+    "departureTime": "04:35",
+    "arrivalTime": "16:49"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/07",
+    "availableSeats": 2,
+    "price": 1754,
+    "departureTime": "05:01",
+    "arrivalTime": "14:57"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/23",
+    "availableSeats": 9,
+    "price": 1811,
+    "departureTime": "05:55",
+    "arrivalTime": "12:57"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/08",
+    "availableSeats": 6,
+    "price": 1266,
+    "departureTime": "01:29",
+    "arrivalTime": "22:14"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/09/24",
+    "availableSeats": 9,
+    "price": 1316,
+    "departureTime": "12:39",
+    "arrivalTime": "13:14"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/02",
+    "availableSeats": 2,
+    "price": 1625,
+    "departureTime": "02:21",
+    "arrivalTime": "16:18"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/04",
+    "availableSeats": 9,
+    "price": 1467,
+    "departureTime": "09:47",
+    "arrivalTime": "17:21"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/05",
+    "availableSeats": 5,
+    "price": 1467,
+    "departureTime": "07:18",
+    "arrivalTime": "17:12"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/23",
+    "availableSeats": 3,
+    "price": 1344,
+    "departureTime": "07:26",
+    "arrivalTime": "16:03"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/07",
+    "availableSeats": 5,
+    "price": 1474,
+    "departureTime": "07:01",
+    "arrivalTime": "19:37"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/14",
+    "availableSeats": 3,
+    "price": 1549,
+    "departureTime": "03:47",
+    "arrivalTime": "14:38"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/20",
+    "availableSeats": 3,
+    "price": 1743,
+    "departureTime": "11:26",
+    "arrivalTime": "19:42"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/10",
+    "availableSeats": 5,
+    "price": 1156,
+    "departureTime": "06:02",
+    "arrivalTime": "20:40"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/25",
+    "availableSeats": 8,
+    "price": 1871,
+    "departureTime": "06:01",
+    "arrivalTime": "23:30"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/09/30",
+    "availableSeats": 3,
+    "price": 1701,
+    "departureTime": "09:04",
+    "arrivalTime": "15:22"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/06",
+    "availableSeats": 4,
+    "price": 1680,
+    "departureTime": "11:51",
+    "arrivalTime": "23:29"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/09/25",
+    "availableSeats": 5,
+    "price": 1306,
+    "departureTime": "06:43",
+    "arrivalTime": "16:11"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/30",
+    "availableSeats": 5,
+    "price": 1204,
+    "departureTime": "05:29",
+    "arrivalTime": "18:25"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/09/28",
+    "availableSeats": 2,
+    "price": 1590,
+    "departureTime": "08:09",
+    "arrivalTime": "18:58"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/18",
+    "availableSeats": 6,
+    "price": 1507,
+    "departureTime": "07:04",
+    "arrivalTime": "20:42"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/05",
+    "availableSeats": 3,
+    "price": 1111,
+    "departureTime": "12:18",
+    "arrivalTime": "12:02"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/14",
+    "availableSeats": 3,
+    "price": 1545,
+    "departureTime": "03:10",
+    "arrivalTime": "15:10"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/08",
+    "availableSeats": 9,
+    "price": 1500,
+    "departureTime": "08:52",
+    "arrivalTime": "21:16"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/04",
+    "availableSeats": 4,
+    "price": 1912,
+    "departureTime": "08:52",
+    "arrivalTime": "13:18"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/13",
+    "availableSeats": 6,
+    "price": 1403,
+    "departureTime": "04:38",
+    "arrivalTime": "16:43"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/29",
+    "availableSeats": 9,
+    "price": 1809,
+    "departureTime": "06:03",
+    "arrivalTime": "15:27"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/26",
+    "availableSeats": 10,
+    "price": 1549,
+    "departureTime": "08:38",
+    "arrivalTime": "22:49"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/15",
+    "availableSeats": 10,
+    "price": 1824,
+    "departureTime": "04:20",
+    "arrivalTime": "15:00"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/26",
+    "availableSeats": 6,
+    "price": 1018,
+    "departureTime": "08:38",
+    "arrivalTime": "14:50"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/07",
+    "availableSeats": 3,
+    "price": 1654,
+    "departureTime": "01:15",
+    "arrivalTime": "19:35"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/10",
+    "availableSeats": 9,
+    "price": 1864,
+    "departureTime": "08:08",
+    "arrivalTime": "20:11"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/30",
+    "availableSeats": 9,
+    "price": 1329,
+    "departureTime": "10:41",
+    "arrivalTime": "19:34"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/09/25",
+    "availableSeats": 8,
+    "price": 1867,
+    "departureTime": "08:05",
+    "arrivalTime": "23:33"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/13",
+    "availableSeats": 3,
+    "price": 1861,
+    "departureTime": "02:03",
+    "arrivalTime": "14:21"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/29",
+    "availableSeats": 4,
+    "price": 1783,
+    "departureTime": "07:48",
+    "arrivalTime": "23:57"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/09/30",
+    "availableSeats": 8,
+    "price": 1949,
+    "departureTime": "11:46",
+    "arrivalTime": "23:41"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/24",
+    "availableSeats": 9,
+    "price": 1055,
+    "departureTime": "11:12",
+    "arrivalTime": "23:58"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/12",
+    "availableSeats": 5,
+    "price": 1952,
+    "departureTime": "12:15",
+    "arrivalTime": "15:34"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/16",
+    "availableSeats": 6,
+    "price": 1687,
+    "departureTime": "04:13",
+    "arrivalTime": "16:45"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/26",
+    "availableSeats": 7,
+    "price": 1947,
+    "departureTime": "07:13",
+    "arrivalTime": "19:51"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/20",
+    "availableSeats": 7,
+    "price": 1327,
+    "departureTime": "02:42",
+    "arrivalTime": "17:03"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/16",
+    "availableSeats": 3,
+    "price": 1809,
+    "departureTime": "09:09",
+    "arrivalTime": "22:12"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/04",
+    "availableSeats": 8,
+    "price": 1158,
+    "departureTime": "09:30",
+    "arrivalTime": "20:34"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/09/27",
+    "availableSeats": 6,
+    "price": 1444,
+    "departureTime": "11:22",
+    "arrivalTime": "14:16"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/09/26",
+    "availableSeats": 5,
+    "price": 1483,
+    "departureTime": "04:47",
+    "arrivalTime": "17:23"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/09/23",
+    "availableSeats": 6,
+    "price": 1604,
+    "departureTime": "06:29",
+    "arrivalTime": "14:45"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/09/29",
+    "availableSeats": 7,
+    "price": 1574,
+    "departureTime": "03:02",
+    "arrivalTime": "19:16"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/07",
+    "availableSeats": 6,
+    "price": 1932,
+    "departureTime": "03:05",
+    "arrivalTime": "13:34"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/09/26",
+    "availableSeats": 4,
+    "price": 1494,
+    "departureTime": "09:20",
+    "arrivalTime": "22:47"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/12",
+    "availableSeats": 4,
+    "price": 1095,
+    "departureTime": "03:55",
+    "arrivalTime": "22:07"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/07",
+    "availableSeats": 5,
+    "price": 1504,
+    "departureTime": "10:11",
+    "arrivalTime": "19:11"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/29",
+    "availableSeats": 3,
+    "price": 1785,
+    "departureTime": "09:24",
+    "arrivalTime": "21:09"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/18",
+    "availableSeats": 7,
+    "price": 1731,
+    "departureTime": "09:48",
+    "arrivalTime": "18:40"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/13",
+    "availableSeats": 9,
+    "price": 1501,
+    "departureTime": "02:01",
+    "arrivalTime": "12:48"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/11",
+    "availableSeats": 10,
+    "price": 1369,
+    "departureTime": "09:40",
+    "arrivalTime": "15:52"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/24",
+    "availableSeats": 10,
+    "price": 1553,
+    "departureTime": "06:11",
+    "arrivalTime": "16:33"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/20",
+    "availableSeats": 6,
+    "price": 1769,
+    "departureTime": "12:22",
+    "arrivalTime": "14:20"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/26",
+    "availableSeats": 1,
+    "price": 1315,
+    "departureTime": "09:45",
+    "arrivalTime": "19:17"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/09/28",
+    "availableSeats": 3,
+    "price": 1699,
+    "departureTime": "07:30",
+    "arrivalTime": "17:39"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/10",
+    "availableSeats": 4,
+    "price": 1148,
+    "departureTime": "03:32",
+    "arrivalTime": "20:38"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/14",
+    "availableSeats": 1,
+    "price": 1921,
+    "departureTime": "06:20",
+    "arrivalTime": "12:54"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/25",
+    "availableSeats": 1,
+    "price": 1264,
+    "departureTime": "01:21",
+    "arrivalTime": "23:44"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/09/30",
+    "availableSeats": 1,
+    "price": 1103,
+    "departureTime": "11:41",
+    "arrivalTime": "16:27"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/11",
+    "availableSeats": 7,
+    "price": 1498,
+    "departureTime": "12:58",
+    "arrivalTime": "19:26"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/09/26",
+    "availableSeats": 10,
+    "price": 1525,
+    "departureTime": "06:20",
+    "arrivalTime": "19:05"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/09/28",
+    "availableSeats": 6,
+    "price": 1540,
+    "departureTime": "08:28",
+    "arrivalTime": "22:36"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/18",
+    "availableSeats": 10,
+    "price": 1053,
+    "departureTime": "06:54",
+    "arrivalTime": "19:22"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/18",
+    "availableSeats": 8,
+    "price": 1493,
+    "departureTime": "06:24",
+    "arrivalTime": "17:20"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/09/27",
+    "availableSeats": 2,
+    "price": 1333,
+    "departureTime": "09:36",
+    "arrivalTime": "17:48"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/25",
+    "availableSeats": 3,
+    "price": 1911,
+    "departureTime": "11:13",
+    "arrivalTime": "22:11"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/16",
+    "availableSeats": 8,
+    "price": 1848,
+    "departureTime": "12:56",
+    "arrivalTime": "15:49"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/09/24",
+    "availableSeats": 3,
+    "price": 1281,
+    "departureTime": "01:42",
+    "arrivalTime": "19:38"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/13",
+    "availableSeats": 3,
+    "price": 1076,
+    "departureTime": "12:13",
+    "arrivalTime": "19:35"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/12",
+    "availableSeats": 2,
+    "price": 1833,
+    "departureTime": "01:57",
+    "arrivalTime": "21:04"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/09/30",
+    "availableSeats": 6,
+    "price": 1395,
+    "departureTime": "11:30",
+    "arrivalTime": "14:42"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/09/30",
+    "availableSeats": 4,
+    "price": 1080,
+    "departureTime": "05:14",
+    "arrivalTime": "14:51"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/15",
+    "availableSeats": 9,
+    "price": 1044,
+    "departureTime": "12:40",
+    "arrivalTime": "23:44"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/18",
+    "availableSeats": 5,
+    "price": 1262,
+    "departureTime": "02:47",
+    "arrivalTime": "16:50"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/02",
+    "availableSeats": 2,
+    "price": 1470,
+    "departureTime": "01:21",
+    "arrivalTime": "15:29"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/09/28",
+    "availableSeats": 9,
+    "price": 1741,
+    "departureTime": "08:55",
+    "arrivalTime": "21:56"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/16",
+    "availableSeats": 3,
+    "price": 1492,
+    "departureTime": "01:19",
+    "arrivalTime": "17:15"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/09/24",
+    "availableSeats": 5,
+    "price": 1759,
+    "departureTime": "02:34",
+    "arrivalTime": "13:28"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/09",
+    "availableSeats": 10,
+    "price": 1136,
+    "departureTime": "03:05",
+    "arrivalTime": "19:02"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/05",
+    "availableSeats": 10,
+    "price": 1530,
+    "departureTime": "01:13",
+    "arrivalTime": "15:57"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/09/28",
+    "availableSeats": 9,
+    "price": 1310,
+    "departureTime": "03:32",
+    "arrivalTime": "13:28"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/08",
+    "availableSeats": 2,
+    "price": 1431,
+    "departureTime": "02:43",
+    "arrivalTime": "21:44"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/09/28",
+    "availableSeats": 7,
+    "price": 1229,
+    "departureTime": "03:54",
+    "arrivalTime": "22:48"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/03",
+    "availableSeats": 4,
+    "price": 1536,
+    "departureTime": "02:48",
+    "arrivalTime": "22:46"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/09/25",
+    "availableSeats": 9,
+    "price": 1668,
+    "departureTime": "03:06",
+    "arrivalTime": "17:52"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/03",
+    "availableSeats": 3,
+    "price": 1056,
+    "departureTime": "01:14",
+    "arrivalTime": "16:35"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/15",
+    "availableSeats": 5,
+    "price": 1065,
+    "departureTime": "07:18",
+    "arrivalTime": "22:07"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/29",
+    "availableSeats": 7,
+    "price": 1833,
+    "departureTime": "11:08",
+    "arrivalTime": "19:35"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/26",
+    "availableSeats": 6,
+    "price": 1001,
+    "departureTime": "01:13",
+    "arrivalTime": "19:58"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/09/23",
+    "availableSeats": 4,
+    "price": 1750,
+    "departureTime": "03:54",
+    "arrivalTime": "22:39"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/04",
+    "availableSeats": 7,
+    "price": 1542,
+    "departureTime": "04:29",
+    "arrivalTime": "19:44"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/04",
+    "availableSeats": 6,
+    "price": 1818,
+    "departureTime": "09:20",
+    "arrivalTime": "17:17"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/23",
+    "availableSeats": 4,
+    "price": 1625,
+    "departureTime": "05:22",
+    "arrivalTime": "23:36"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/21",
+    "availableSeats": 9,
+    "price": 1699,
+    "departureTime": "03:39",
+    "arrivalTime": "22:18"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/17",
+    "availableSeats": 9,
+    "price": 1730,
+    "departureTime": "11:16",
+    "arrivalTime": "23:08"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/01",
+    "availableSeats": 5,
+    "price": 1176,
+    "departureTime": "08:47",
+    "arrivalTime": "12:01"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/21",
+    "availableSeats": 6,
+    "price": 1844,
+    "departureTime": "12:37",
+    "arrivalTime": "14:32"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/17",
+    "availableSeats": 6,
+    "price": 1983,
+    "departureTime": "02:21",
+    "arrivalTime": "21:24"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/29",
+    "availableSeats": 3,
+    "price": 1992,
+    "departureTime": "05:15",
+    "arrivalTime": "22:27"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/05",
+    "availableSeats": 1,
+    "price": 1957,
+    "departureTime": "07:45",
+    "arrivalTime": "13:39"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/07",
+    "availableSeats": 6,
+    "price": 1496,
+    "departureTime": "02:25",
+    "arrivalTime": "15:30"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/16",
+    "availableSeats": 7,
+    "price": 1402,
+    "departureTime": "06:26",
+    "arrivalTime": "15:17"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/09/27",
+    "availableSeats": 2,
+    "price": 1290,
+    "departureTime": "06:18",
+    "arrivalTime": "17:42"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/14",
+    "availableSeats": 5,
+    "price": 1174,
+    "departureTime": "07:33",
+    "arrivalTime": "21:22"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/08",
+    "availableSeats": 9,
+    "price": 1476,
+    "departureTime": "08:15",
+    "arrivalTime": "17:23"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/09/29",
+    "availableSeats": 6,
+    "price": 1143,
+    "departureTime": "08:09",
+    "arrivalTime": "20:20"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/09/25",
+    "availableSeats": 6,
+    "price": 1716,
+    "departureTime": "10:32",
+    "arrivalTime": "16:36"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/29",
+    "availableSeats": 5,
+    "price": 1368,
+    "departureTime": "10:58",
+    "arrivalTime": "22:57"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/25",
+    "availableSeats": 8,
+    "price": 1819,
+    "departureTime": "02:38",
+    "arrivalTime": "22:45"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/09/23",
+    "availableSeats": 6,
+    "price": 1003,
+    "departureTime": "01:50",
+    "arrivalTime": "23:10"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/06",
+    "availableSeats": 2,
+    "price": 1941,
+    "departureTime": "02:16",
+    "arrivalTime": "12:54"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/28",
+    "availableSeats": 10,
+    "price": 1555,
+    "departureTime": "03:19",
+    "arrivalTime": "14:46"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/04",
+    "availableSeats": 6,
+    "price": 1434,
+    "departureTime": "07:00",
+    "arrivalTime": "18:54"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/09/25",
+    "availableSeats": 2,
+    "price": 1217,
+    "departureTime": "02:49",
+    "arrivalTime": "16:50"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/05",
+    "availableSeats": 8,
+    "price": 1053,
+    "departureTime": "02:42",
+    "arrivalTime": "14:12"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/09/28",
+    "availableSeats": 2,
+    "price": 1188,
+    "departureTime": "11:00",
+    "arrivalTime": "18:48"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/09/25",
+    "availableSeats": 4,
+    "price": 1892,
+    "departureTime": "04:40",
+    "arrivalTime": "17:52"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/13",
+    "availableSeats": 7,
+    "price": 1777,
+    "departureTime": "01:28",
+    "arrivalTime": "22:40"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/07",
+    "availableSeats": 5,
+    "price": 1714,
+    "departureTime": "12:10",
+    "arrivalTime": "14:59"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/18",
+    "availableSeats": 8,
+    "price": 1148,
+    "departureTime": "02:28",
+    "arrivalTime": "23:30"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/27",
+    "availableSeats": 5,
+    "price": 1265,
+    "departureTime": "12:59",
+    "arrivalTime": "20:46"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/30",
+    "availableSeats": 9,
+    "price": 1260,
+    "departureTime": "02:43",
+    "arrivalTime": "19:43"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/31",
+    "availableSeats": 10,
+    "price": 1433,
+    "departureTime": "04:39",
+    "arrivalTime": "19:42"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/09",
+    "availableSeats": 5,
+    "price": 1913,
+    "departureTime": "08:37",
+    "arrivalTime": "13:48"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/23",
+    "availableSeats": 6,
+    "price": 1653,
+    "departureTime": "09:09",
+    "arrivalTime": "18:47"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/31",
+    "availableSeats": 9,
+    "price": 1827,
+    "departureTime": "01:01",
+    "arrivalTime": "15:21"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/06",
+    "availableSeats": 7,
+    "price": 1933,
+    "departureTime": "04:53",
+    "arrivalTime": "22:19"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/15",
+    "availableSeats": 9,
+    "price": 1450,
+    "departureTime": "04:10",
+    "arrivalTime": "16:35"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/08",
+    "availableSeats": 3,
+    "price": 1238,
+    "departureTime": "06:27",
+    "arrivalTime": "22:36"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/24",
+    "availableSeats": 8,
+    "price": 1894,
+    "departureTime": "11:39",
+    "arrivalTime": "13:46"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/27",
+    "availableSeats": 4,
+    "price": 1196,
+    "departureTime": "04:31",
+    "arrivalTime": "17:13"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/17",
+    "availableSeats": 3,
+    "price": 1833,
+    "departureTime": "07:57",
+    "arrivalTime": "23:14"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/09/24",
+    "availableSeats": 4,
+    "price": 1689,
+    "departureTime": "08:46",
+    "arrivalTime": "20:42"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/09",
+    "availableSeats": 9,
+    "price": 1178,
+    "departureTime": "12:45",
+    "arrivalTime": "20:47"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/01",
+    "availableSeats": 8,
+    "price": 1135,
+    "departureTime": "09:43",
+    "arrivalTime": "23:39"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/20",
+    "availableSeats": 4,
+    "price": 1262,
+    "departureTime": "05:29",
+    "arrivalTime": "21:23"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/12",
+    "availableSeats": 3,
+    "price": 1572,
+    "departureTime": "08:24",
+    "arrivalTime": "23:50"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/11",
+    "availableSeats": 3,
+    "price": 1904,
+    "departureTime": "01:03",
+    "arrivalTime": "16:45"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/19",
+    "availableSeats": 6,
+    "price": 1656,
+    "departureTime": "04:50",
+    "arrivalTime": "20:34"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/03",
+    "availableSeats": 9,
+    "price": 1314,
+    "departureTime": "04:05",
+    "arrivalTime": "16:29"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/06",
+    "availableSeats": 10,
+    "price": 1005,
+    "departureTime": "09:45",
+    "arrivalTime": "14:04"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/24",
+    "availableSeats": 6,
+    "price": 1923,
+    "departureTime": "04:45",
+    "arrivalTime": "14:59"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/11",
+    "availableSeats": 4,
+    "price": 1591,
+    "departureTime": "06:20",
+    "arrivalTime": "19:41"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/01",
+    "availableSeats": 4,
+    "price": 1730,
+    "departureTime": "07:55",
+    "arrivalTime": "13:52"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/25",
+    "availableSeats": 3,
+    "price": 1424,
+    "departureTime": "07:48",
+    "arrivalTime": "23:36"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/07",
+    "availableSeats": 8,
+    "price": 1136,
+    "departureTime": "04:31",
+    "arrivalTime": "21:42"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/03",
+    "availableSeats": 8,
+    "price": 1618,
+    "departureTime": "04:23",
+    "arrivalTime": "16:26"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/09/28",
+    "availableSeats": 7,
+    "price": 1783,
+    "departureTime": "11:33",
+    "arrivalTime": "19:02"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/22",
+    "availableSeats": 3,
+    "price": 1146,
+    "departureTime": "12:54",
+    "arrivalTime": "14:32"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/09/28",
+    "availableSeats": 6,
+    "price": 1205,
+    "departureTime": "06:18",
+    "arrivalTime": "13:25"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/27",
+    "availableSeats": 8,
+    "price": 1109,
+    "departureTime": "06:31",
+    "arrivalTime": "19:52"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/10",
+    "availableSeats": 10,
+    "price": 1108,
+    "departureTime": "01:51",
+    "arrivalTime": "18:17"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/23",
+    "availableSeats": 8,
+    "price": 1202,
+    "departureTime": "11:44",
+    "arrivalTime": "12:58"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/16",
+    "availableSeats": 6,
+    "price": 1746,
+    "departureTime": "09:33",
+    "arrivalTime": "16:37"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/26",
+    "availableSeats": 5,
+    "price": 1913,
+    "departureTime": "10:15",
+    "arrivalTime": "19:08"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/09/26",
+    "availableSeats": 8,
+    "price": 1494,
+    "departureTime": "10:30",
+    "arrivalTime": "15:57"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/09/27",
+    "availableSeats": 8,
+    "price": 1416,
+    "departureTime": "04:16",
+    "arrivalTime": "13:51"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/09/30",
+    "availableSeats": 7,
+    "price": 1653,
+    "departureTime": "04:26",
+    "arrivalTime": "22:10"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/23",
+    "availableSeats": 8,
+    "price": 1352,
+    "departureTime": "02:32",
+    "arrivalTime": "12:18"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/01",
+    "availableSeats": 1,
+    "price": 1582,
+    "departureTime": "07:46",
+    "arrivalTime": "21:13"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/11",
+    "availableSeats": 10,
+    "price": 1679,
+    "departureTime": "01:55",
+    "arrivalTime": "22:10"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/06",
+    "availableSeats": 7,
+    "price": 1712,
+    "departureTime": "07:31",
+    "arrivalTime": "17:34"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/21",
+    "availableSeats": 7,
+    "price": 1047,
+    "departureTime": "08:34",
+    "arrivalTime": "12:27"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/27",
+    "availableSeats": 8,
+    "price": 1271,
+    "departureTime": "05:12",
+    "arrivalTime": "18:48"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/10",
+    "availableSeats": 9,
+    "price": 1612,
+    "departureTime": "04:49",
+    "arrivalTime": "15:20"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/28",
+    "availableSeats": 3,
+    "price": 1883,
+    "departureTime": "06:40",
+    "arrivalTime": "23:58"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/09/28",
+    "availableSeats": 6,
+    "price": 1608,
+    "departureTime": "07:50",
+    "arrivalTime": "22:55"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/09/26",
+    "availableSeats": 4,
+    "price": 1928,
+    "departureTime": "10:33",
+    "arrivalTime": "17:34"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/22",
+    "availableSeats": 2,
+    "price": 1797,
+    "departureTime": "04:42",
+    "arrivalTime": "18:17"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/14",
+    "availableSeats": 9,
+    "price": 1746,
+    "departureTime": "02:57",
+    "arrivalTime": "14:32"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/09/27",
+    "availableSeats": 2,
+    "price": 1541,
+    "departureTime": "11:27",
+    "arrivalTime": "16:19"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/19",
+    "availableSeats": 2,
+    "price": 1141,
+    "departureTime": "10:51",
+    "arrivalTime": "13:15"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/29",
+    "availableSeats": 2,
+    "price": 1291,
+    "departureTime": "04:01",
+    "arrivalTime": "15:36"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/23",
+    "availableSeats": 5,
+    "price": 1096,
+    "departureTime": "09:09",
+    "arrivalTime": "13:02"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/10",
+    "availableSeats": 5,
+    "price": 1522,
+    "departureTime": "09:48",
+    "arrivalTime": "22:14"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/02",
+    "availableSeats": 7,
+    "price": 1821,
+    "departureTime": "02:43",
+    "arrivalTime": "21:27"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/03",
+    "availableSeats": 8,
+    "price": 1930,
+    "departureTime": "05:10",
+    "arrivalTime": "15:56"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/20",
+    "availableSeats": 2,
+    "price": 1000,
+    "departureTime": "11:36",
+    "arrivalTime": "16:22"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/09/29",
+    "availableSeats": 4,
+    "price": 1611,
+    "departureTime": "07:44",
+    "arrivalTime": "18:35"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/14",
+    "availableSeats": 4,
+    "price": 1836,
+    "departureTime": "05:11",
+    "arrivalTime": "19:07"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/23",
+    "availableSeats": 7,
+    "price": 1715,
+    "departureTime": "04:56",
+    "arrivalTime": "13:03"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/09/30",
+    "availableSeats": 7,
+    "price": 1484,
+    "departureTime": "05:56",
+    "arrivalTime": "12:16"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/09/26",
+    "availableSeats": 7,
+    "price": 1660,
+    "departureTime": "09:33",
+    "arrivalTime": "14:59"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/09/29",
+    "availableSeats": 6,
+    "price": 1298,
+    "departureTime": "01:08",
+    "arrivalTime": "14:13"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/03",
+    "availableSeats": 9,
+    "price": 1899,
+    "departureTime": "08:01",
+    "arrivalTime": "21:48"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/09/26",
+    "availableSeats": 6,
+    "price": 1882,
+    "departureTime": "07:42",
+    "arrivalTime": "12:38"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/11",
+    "availableSeats": 3,
+    "price": 1281,
+    "departureTime": "06:57",
+    "arrivalTime": "22:49"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/28",
+    "availableSeats": 5,
+    "price": 1135,
+    "departureTime": "05:25",
+    "arrivalTime": "22:32"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/04",
+    "availableSeats": 3,
+    "price": 1519,
+    "departureTime": "04:57",
+    "arrivalTime": "17:14"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/21",
+    "availableSeats": 7,
+    "price": 1448,
+    "departureTime": "07:48",
+    "arrivalTime": "21:49"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/15",
+    "availableSeats": 10,
+    "price": 1712,
+    "departureTime": "09:48",
+    "arrivalTime": "19:17"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/01",
+    "availableSeats": 4,
+    "price": 1660,
+    "departureTime": "02:07",
+    "arrivalTime": "22:19"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/13",
+    "availableSeats": 3,
+    "price": 1917,
+    "departureTime": "09:51",
+    "arrivalTime": "18:31"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/21",
+    "availableSeats": 8,
+    "price": 1886,
+    "departureTime": "07:43",
+    "arrivalTime": "23:35"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/06",
+    "availableSeats": 2,
+    "price": 1715,
+    "departureTime": "07:35",
+    "arrivalTime": "22:50"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/26",
+    "availableSeats": 4,
+    "price": 1464,
+    "departureTime": "11:25",
+    "arrivalTime": "12:48"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/09",
+    "availableSeats": 9,
+    "price": 1496,
+    "departureTime": "10:31",
+    "arrivalTime": "21:26"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/09/27",
+    "availableSeats": 4,
+    "price": 1249,
+    "departureTime": "07:20",
+    "arrivalTime": "23:31"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/08",
+    "availableSeats": 3,
+    "price": 1057,
+    "departureTime": "05:53",
+    "arrivalTime": "17:41"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/15",
+    "availableSeats": 5,
+    "price": 1803,
+    "departureTime": "01:06",
+    "arrivalTime": "14:47"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/10",
+    "availableSeats": 1,
+    "price": 1932,
+    "departureTime": "07:58",
+    "arrivalTime": "21:54"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/30",
+    "availableSeats": 5,
+    "price": 1630,
+    "departureTime": "05:31",
+    "arrivalTime": "21:53"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/20",
+    "availableSeats": 1,
+    "price": 1673,
+    "departureTime": "10:57",
+    "arrivalTime": "19:06"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/29",
+    "availableSeats": 2,
+    "price": 1369,
+    "departureTime": "08:15",
+    "arrivalTime": "19:48"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/05",
+    "availableSeats": 2,
+    "price": 1808,
+    "departureTime": "02:57",
+    "arrivalTime": "18:31"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/30",
+    "availableSeats": 7,
+    "price": 1873,
+    "departureTime": "09:37",
+    "arrivalTime": "14:48"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/09/30",
+    "availableSeats": 7,
+    "price": 1825,
+    "departureTime": "07:40",
+    "arrivalTime": "13:40"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/05",
+    "availableSeats": 4,
+    "price": 1413,
+    "departureTime": "12:37",
+    "arrivalTime": "21:56"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/09/25",
+    "availableSeats": 3,
+    "price": 1446,
+    "departureTime": "09:39",
+    "arrivalTime": "17:58"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/26",
+    "availableSeats": 5,
+    "price": 1253,
+    "departureTime": "12:12",
+    "arrivalTime": "14:47"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/30",
+    "availableSeats": 8,
+    "price": 1815,
+    "departureTime": "11:23",
+    "arrivalTime": "18:35"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/15",
+    "availableSeats": 6,
+    "price": 1519,
+    "departureTime": "09:52",
+    "arrivalTime": "21:16"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/09",
+    "availableSeats": 8,
+    "price": 1065,
+    "departureTime": "02:51",
+    "arrivalTime": "17:13"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/19",
+    "availableSeats": 8,
+    "price": 1032,
+    "departureTime": "09:57",
+    "arrivalTime": "22:51"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/25",
+    "availableSeats": 10,
+    "price": 1374,
+    "departureTime": "07:54",
+    "arrivalTime": "15:18"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/07",
+    "availableSeats": 4,
+    "price": 1117,
+    "departureTime": "05:08",
+    "arrivalTime": "23:37"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/23",
+    "availableSeats": 4,
+    "price": 1336,
+    "departureTime": "01:18",
+    "arrivalTime": "23:02"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/26",
+    "availableSeats": 7,
+    "price": 1847,
+    "departureTime": "05:59",
+    "arrivalTime": "19:16"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/09/25",
+    "availableSeats": 3,
+    "price": 1735,
+    "departureTime": "01:39",
+    "arrivalTime": "19:29"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/09/24",
+    "availableSeats": 3,
+    "price": 1098,
+    "departureTime": "01:12",
+    "arrivalTime": "19:53"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/09/30",
+    "availableSeats": 1,
+    "price": 1098,
+    "departureTime": "03:58",
+    "arrivalTime": "13:20"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/29",
+    "availableSeats": 7,
+    "price": 1639,
+    "departureTime": "06:52",
+    "arrivalTime": "17:38"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/01",
+    "availableSeats": 7,
+    "price": 1104,
+    "departureTime": "02:22",
+    "arrivalTime": "17:03"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/08",
+    "availableSeats": 4,
+    "price": 1490,
+    "departureTime": "11:09",
+    "arrivalTime": "19:44"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/09/26",
+    "availableSeats": 3,
+    "price": 1443,
+    "departureTime": "07:31",
+    "arrivalTime": "23:00"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/09/27",
+    "availableSeats": 6,
+    "price": 1502,
+    "departureTime": "08:22",
+    "arrivalTime": "16:51"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/16",
+    "availableSeats": 9,
+    "price": 1968,
+    "departureTime": "05:31",
+    "arrivalTime": "20:26"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/14",
+    "availableSeats": 6,
+    "price": 1318,
+    "departureTime": "08:08",
+    "arrivalTime": "23:47"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/09/28",
+    "availableSeats": 1,
+    "price": 1699,
+    "departureTime": "07:46",
+    "arrivalTime": "22:18"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/25",
+    "availableSeats": 3,
+    "price": 1331,
+    "departureTime": "07:52",
+    "arrivalTime": "18:54"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/09/29",
+    "availableSeats": 7,
+    "price": 1593,
+    "departureTime": "08:06",
+    "arrivalTime": "12:41"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/17",
+    "availableSeats": 7,
+    "price": 1170,
+    "departureTime": "06:08",
+    "arrivalTime": "20:22"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/28",
+    "availableSeats": 5,
+    "price": 1485,
+    "departureTime": "03:57",
+    "arrivalTime": "14:51"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/17",
+    "availableSeats": 6,
+    "price": 1112,
+    "departureTime": "01:35",
+    "arrivalTime": "17:50"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/26",
+    "availableSeats": 8,
+    "price": 1839,
+    "departureTime": "06:24",
+    "arrivalTime": "15:57"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/21",
+    "availableSeats": 8,
+    "price": 1359,
+    "departureTime": "02:07",
+    "arrivalTime": "20:45"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/07",
+    "availableSeats": 4,
+    "price": 1960,
+    "departureTime": "04:19",
+    "arrivalTime": "20:12"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/25",
+    "availableSeats": 6,
+    "price": 1604,
+    "departureTime": "08:45",
+    "arrivalTime": "22:48"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/15",
+    "availableSeats": 5,
+    "price": 1168,
+    "departureTime": "10:26",
+    "arrivalTime": "12:48"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/06",
+    "availableSeats": 2,
+    "price": 1142,
+    "departureTime": "04:59",
+    "arrivalTime": "21:27"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/16",
+    "availableSeats": 8,
+    "price": 1864,
+    "departureTime": "08:30",
+    "arrivalTime": "12:40"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/07",
+    "availableSeats": 10,
+    "price": 1994,
+    "departureTime": "04:58",
+    "arrivalTime": "23:27"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/29",
+    "availableSeats": 1,
+    "price": 1958,
+    "departureTime": "10:56",
+    "arrivalTime": "14:01"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/29",
+    "availableSeats": 2,
+    "price": 1851,
+    "departureTime": "09:20",
+    "arrivalTime": "18:13"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/19",
+    "availableSeats": 10,
+    "price": 1960,
+    "departureTime": "09:49",
+    "arrivalTime": "22:17"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/08",
+    "availableSeats": 3,
+    "price": 1675,
+    "departureTime": "08:36",
+    "arrivalTime": "22:52"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/17",
+    "availableSeats": 1,
+    "price": 1579,
+    "departureTime": "08:06",
+    "arrivalTime": "18:58"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/25",
+    "availableSeats": 3,
+    "price": 1848,
+    "departureTime": "02:55",
+    "arrivalTime": "18:28"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/08",
+    "availableSeats": 5,
+    "price": 1704,
+    "departureTime": "08:40",
+    "arrivalTime": "20:08"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/26",
+    "availableSeats": 8,
+    "price": 1896,
+    "departureTime": "09:13",
+    "arrivalTime": "20:34"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/07",
+    "availableSeats": 7,
+    "price": 1220,
+    "departureTime": "02:54",
+    "arrivalTime": "14:09"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/09/27",
+    "availableSeats": 7,
+    "price": 1629,
+    "departureTime": "08:40",
+    "arrivalTime": "15:46"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/06",
+    "availableSeats": 6,
+    "price": 1829,
+    "departureTime": "12:37",
+    "arrivalTime": "20:30"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/20",
+    "availableSeats": 5,
+    "price": 1237,
+    "departureTime": "04:18",
+    "arrivalTime": "13:03"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/01",
+    "availableSeats": 6,
+    "price": 1778,
+    "departureTime": "01:33",
+    "arrivalTime": "23:29"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/12",
+    "availableSeats": 3,
+    "price": 1842,
+    "departureTime": "02:36",
+    "arrivalTime": "18:43"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/09/28",
+    "availableSeats": 7,
+    "price": 1499,
+    "departureTime": "11:46",
+    "arrivalTime": "20:09"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/04",
+    "availableSeats": 5,
+    "price": 1406,
+    "departureTime": "08:22",
+    "arrivalTime": "19:55"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/30",
+    "availableSeats": 4,
+    "price": 1955,
+    "departureTime": "12:35",
+    "arrivalTime": "21:51"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/17",
+    "availableSeats": 4,
+    "price": 1039,
+    "departureTime": "04:19",
+    "arrivalTime": "15:50"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/09/27",
+    "availableSeats": 3,
+    "price": 1400,
+    "departureTime": "02:56",
+    "arrivalTime": "21:38"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/06",
+    "availableSeats": 3,
+    "price": 1297,
+    "departureTime": "01:42",
+    "arrivalTime": "19:01"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/09",
+    "availableSeats": 3,
+    "price": 1375,
+    "departureTime": "02:54",
+    "arrivalTime": "19:22"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/11",
+    "availableSeats": 1,
+    "price": 1706,
+    "departureTime": "12:14",
+    "arrivalTime": "20:41"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/04",
+    "availableSeats": 2,
+    "price": 1050,
+    "departureTime": "12:36",
+    "arrivalTime": "16:42"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/09/27",
+    "availableSeats": 6,
+    "price": 1298,
+    "departureTime": "03:10",
+    "arrivalTime": "22:29"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/09/25",
+    "availableSeats": 7,
+    "price": 1828,
+    "departureTime": "07:04",
+    "arrivalTime": "16:51"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/03",
+    "availableSeats": 4,
+    "price": 1409,
+    "departureTime": "10:22",
+    "arrivalTime": "12:34"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/25",
+    "availableSeats": 2,
+    "price": 1173,
+    "departureTime": "01:06",
+    "arrivalTime": "15:39"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/29",
+    "availableSeats": 9,
+    "price": 1006,
+    "departureTime": "02:11",
+    "arrivalTime": "22:35"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/01",
+    "availableSeats": 4,
+    "price": 1870,
+    "departureTime": "11:11",
+    "arrivalTime": "13:32"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/23",
+    "availableSeats": 9,
+    "price": 1849,
+    "departureTime": "03:26",
+    "arrivalTime": "19:17"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/09/30",
+    "availableSeats": 4,
+    "price": 1569,
+    "departureTime": "07:52",
+    "arrivalTime": "21:51"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/09/23",
+    "availableSeats": 7,
+    "price": 1817,
+    "departureTime": "11:30",
+    "arrivalTime": "17:29"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/02",
+    "availableSeats": 3,
+    "price": 1753,
+    "departureTime": "12:20",
+    "arrivalTime": "20:01"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/26",
+    "availableSeats": 2,
+    "price": 1169,
+    "departureTime": "03:26",
+    "arrivalTime": "19:31"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/30",
+    "availableSeats": 7,
+    "price": 1798,
+    "departureTime": "07:21",
+    "arrivalTime": "23:32"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/16",
+    "availableSeats": 2,
+    "price": 1232,
+    "departureTime": "08:07",
+    "arrivalTime": "19:31"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/08",
+    "availableSeats": 1,
+    "price": 1645,
+    "departureTime": "03:48",
+    "arrivalTime": "16:32"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/02",
+    "availableSeats": 4,
+    "price": 1817,
+    "departureTime": "11:05",
+    "arrivalTime": "12:07"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/27",
+    "availableSeats": 10,
+    "price": 1772,
+    "departureTime": "01:25",
+    "arrivalTime": "20:25"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/23",
+    "availableSeats": 2,
+    "price": 1468,
+    "departureTime": "02:35",
+    "arrivalTime": "20:32"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/29",
+    "availableSeats": 7,
+    "price": 1094,
+    "departureTime": "04:56",
+    "arrivalTime": "17:44"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/09/24",
+    "availableSeats": 9,
+    "price": 1175,
+    "departureTime": "01:17",
+    "arrivalTime": "21:31"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/19",
+    "availableSeats": 5,
+    "price": 1230,
+    "departureTime": "07:36",
+    "arrivalTime": "14:03"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/11",
+    "availableSeats": 2,
+    "price": 1794,
+    "departureTime": "01:30",
+    "arrivalTime": "19:07"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/02",
+    "availableSeats": 4,
+    "price": 1161,
+    "departureTime": "03:43",
+    "arrivalTime": "22:14"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/26",
+    "availableSeats": 2,
+    "price": 1480,
+    "departureTime": "09:41",
+    "arrivalTime": "20:13"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/05",
+    "availableSeats": 10,
+    "price": 1848,
+    "departureTime": "11:03",
+    "arrivalTime": "19:22"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/09",
+    "availableSeats": 9,
+    "price": 1509,
+    "departureTime": "08:41",
+    "arrivalTime": "21:16"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/16",
+    "availableSeats": 4,
+    "price": 1824,
+    "departureTime": "04:52",
+    "arrivalTime": "14:11"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/26",
+    "availableSeats": 6,
+    "price": 1227,
+    "departureTime": "06:34",
+    "arrivalTime": "18:39"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/09/30",
+    "availableSeats": 5,
+    "price": 1613,
+    "departureTime": "01:15",
+    "arrivalTime": "22:57"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/09/24",
+    "availableSeats": 3,
+    "price": 1197,
+    "departureTime": "07:13",
+    "arrivalTime": "23:47"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/23",
+    "availableSeats": 9,
+    "price": 1625,
+    "departureTime": "04:07",
+    "arrivalTime": "19:02"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/02",
+    "availableSeats": 8,
+    "price": 1297,
+    "departureTime": "10:26",
+    "arrivalTime": "12:34"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/16",
+    "availableSeats": 1,
+    "price": 1803,
+    "departureTime": "01:15",
+    "arrivalTime": "21:58"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/16",
+    "availableSeats": 4,
+    "price": 1825,
+    "departureTime": "11:15",
+    "arrivalTime": "16:57"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/09/26",
+    "availableSeats": 3,
+    "price": 1112,
+    "departureTime": "06:15",
+    "arrivalTime": "15:28"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/15",
+    "availableSeats": 10,
+    "price": 1141,
+    "departureTime": "03:41",
+    "arrivalTime": "20:27"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/03",
+    "availableSeats": 3,
+    "price": 1597,
+    "departureTime": "05:11",
+    "arrivalTime": "13:13"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/09/27",
+    "availableSeats": 8,
+    "price": 1948,
+    "departureTime": "11:06",
+    "arrivalTime": "13:24"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/06",
+    "availableSeats": 8,
+    "price": 1045,
+    "departureTime": "07:36",
+    "arrivalTime": "13:22"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/27",
+    "availableSeats": 9,
+    "price": 1886,
+    "departureTime": "08:24",
+    "arrivalTime": "17:09"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/14",
+    "availableSeats": 5,
+    "price": 1391,
+    "departureTime": "12:16",
+    "arrivalTime": "12:13"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/09/29",
+    "availableSeats": 9,
+    "price": 1311,
+    "departureTime": "03:09",
+    "arrivalTime": "21:16"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/09",
+    "availableSeats": 3,
+    "price": 1878,
+    "departureTime": "12:14",
+    "arrivalTime": "12:28"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/01",
+    "availableSeats": 10,
+    "price": 1698,
+    "departureTime": "12:12",
+    "arrivalTime": "14:20"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/23",
+    "availableSeats": 3,
+    "price": 1686,
+    "departureTime": "03:20",
+    "arrivalTime": "18:03"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/19",
+    "availableSeats": 3,
+    "price": 1366,
+    "departureTime": "07:35",
+    "arrivalTime": "16:54"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/16",
+    "availableSeats": 5,
+    "price": 1405,
+    "departureTime": "12:27",
+    "arrivalTime": "20:55"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/22",
+    "availableSeats": 2,
+    "price": 1560,
+    "departureTime": "03:40",
+    "arrivalTime": "21:53"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/24",
+    "availableSeats": 5,
+    "price": 1583,
+    "departureTime": "04:57",
+    "arrivalTime": "20:51"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/09/25",
+    "availableSeats": 1,
+    "price": 1899,
+    "departureTime": "06:10",
+    "arrivalTime": "18:39"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/06",
+    "availableSeats": 9,
+    "price": 1151,
+    "departureTime": "05:28",
+    "arrivalTime": "15:34"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/19",
+    "availableSeats": 8,
+    "price": 1627,
+    "departureTime": "06:44",
+    "arrivalTime": "18:19"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/22",
+    "availableSeats": 3,
+    "price": 1001,
+    "departureTime": "12:25",
+    "arrivalTime": "23:06"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/29",
+    "availableSeats": 2,
+    "price": 1904,
+    "departureTime": "07:41",
+    "arrivalTime": "14:13"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/17",
+    "availableSeats": 4,
+    "price": 1063,
+    "departureTime": "06:30",
+    "arrivalTime": "17:12"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/13",
+    "availableSeats": 10,
+    "price": 1872,
+    "departureTime": "11:04",
+    "arrivalTime": "14:12"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/13",
+    "availableSeats": 5,
+    "price": 1487,
+    "departureTime": "08:06",
+    "arrivalTime": "19:18"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/05",
+    "availableSeats": 1,
+    "price": 1313,
+    "departureTime": "06:14",
+    "arrivalTime": "17:43"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/09",
+    "availableSeats": 8,
+    "price": 1451,
+    "departureTime": "10:34",
+    "arrivalTime": "20:47"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/18",
+    "availableSeats": 6,
+    "price": 1179,
+    "departureTime": "04:40",
+    "arrivalTime": "17:01"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/15",
+    "availableSeats": 5,
+    "price": 1242,
+    "departureTime": "06:05",
+    "arrivalTime": "22:43"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/25",
+    "availableSeats": 3,
+    "price": 1880,
+    "departureTime": "07:23",
+    "arrivalTime": "21:19"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/29",
+    "availableSeats": 1,
+    "price": 1219,
+    "departureTime": "05:19",
+    "arrivalTime": "18:49"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/23",
+    "availableSeats": 9,
+    "price": 1367,
+    "departureTime": "12:26",
+    "arrivalTime": "22:50"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/21",
+    "availableSeats": 7,
+    "price": 1334,
+    "departureTime": "10:15",
+    "arrivalTime": "22:51"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/05",
+    "availableSeats": 1,
+    "price": 1618,
+    "departureTime": "03:15",
+    "arrivalTime": "23:24"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/02",
+    "availableSeats": 9,
+    "price": 1949,
+    "departureTime": "06:31",
+    "arrivalTime": "19:21"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/04",
+    "availableSeats": 10,
+    "price": 1507,
+    "departureTime": "03:11",
+    "arrivalTime": "12:18"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/15",
+    "availableSeats": 4,
+    "price": 1630,
+    "departureTime": "09:33",
+    "arrivalTime": "20:34"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/01",
+    "availableSeats": 8,
+    "price": 1187,
+    "departureTime": "02:31",
+    "arrivalTime": "21:18"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/19",
+    "availableSeats": 1,
+    "price": 1178,
+    "departureTime": "07:03",
+    "arrivalTime": "12:20"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/09",
+    "availableSeats": 2,
+    "price": 1770,
+    "departureTime": "08:07",
+    "arrivalTime": "19:03"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/26",
+    "availableSeats": 2,
+    "price": 1495,
+    "departureTime": "09:27",
+    "arrivalTime": "18:03"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/08",
+    "availableSeats": 1,
+    "price": 1094,
+    "departureTime": "11:18",
+    "arrivalTime": "18:05"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/09/30",
+    "availableSeats": 3,
+    "price": 1383,
+    "departureTime": "06:21",
+    "arrivalTime": "17:38"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/28",
+    "availableSeats": 6,
+    "price": 1578,
+    "departureTime": "10:08",
+    "arrivalTime": "12:13"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/20",
+    "availableSeats": 9,
+    "price": 1079,
+    "departureTime": "06:31",
+    "arrivalTime": "17:45"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/14",
+    "availableSeats": 5,
+    "price": 1119,
+    "departureTime": "10:22",
+    "arrivalTime": "18:49"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/27",
+    "availableSeats": 10,
+    "price": 1545,
+    "departureTime": "02:39",
+    "arrivalTime": "23:46"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/25",
+    "availableSeats": 3,
+    "price": 1720,
+    "departureTime": "09:21",
+    "arrivalTime": "20:15"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/09/26",
+    "availableSeats": 3,
+    "price": 1700,
+    "departureTime": "05:29",
+    "arrivalTime": "13:11"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/07",
+    "availableSeats": 2,
+    "price": 1826,
+    "departureTime": "07:21",
+    "arrivalTime": "20:04"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/30",
+    "availableSeats": 7,
+    "price": 1971,
+    "departureTime": "12:28",
+    "arrivalTime": "21:08"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/09/24",
+    "availableSeats": 7,
+    "price": 1258,
+    "departureTime": "06:43",
+    "arrivalTime": "17:21"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/18",
+    "availableSeats": 1,
+    "price": 1449,
+    "departureTime": "05:12",
+    "arrivalTime": "20:20"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/01",
+    "availableSeats": 5,
+    "price": 1305,
+    "departureTime": "11:55",
+    "arrivalTime": "23:33"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/29",
+    "availableSeats": 6,
+    "price": 1179,
+    "departureTime": "09:01",
+    "arrivalTime": "23:49"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/16",
+    "availableSeats": 3,
+    "price": 1237,
+    "departureTime": "02:10",
+    "arrivalTime": "22:01"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/17",
+    "availableSeats": 9,
+    "price": 1256,
+    "departureTime": "07:15",
+    "arrivalTime": "17:11"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/05",
+    "availableSeats": 4,
+    "price": 1906,
+    "departureTime": "07:19",
+    "arrivalTime": "12:51"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/11",
+    "availableSeats": 8,
+    "price": 1334,
+    "departureTime": "11:03",
+    "arrivalTime": "20:41"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/15",
+    "availableSeats": 5,
+    "price": 1705,
+    "departureTime": "02:52",
+    "arrivalTime": "17:21"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/14",
+    "availableSeats": 1,
+    "price": 1106,
+    "departureTime": "07:42",
+    "arrivalTime": "17:46"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/12",
+    "availableSeats": 5,
+    "price": 1748,
+    "departureTime": "05:27",
+    "arrivalTime": "18:47"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/09/26",
+    "availableSeats": 8,
+    "price": 1922,
+    "departureTime": "09:30",
+    "arrivalTime": "20:33"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/01",
+    "availableSeats": 8,
+    "price": 1599,
+    "departureTime": "02:53",
+    "arrivalTime": "20:10"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/19",
+    "availableSeats": 6,
+    "price": 1619,
+    "departureTime": "03:25",
+    "arrivalTime": "18:01"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/16",
+    "availableSeats": 2,
+    "price": 1152,
+    "departureTime": "03:10",
+    "arrivalTime": "21:17"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/09/28",
+    "availableSeats": 6,
+    "price": 1928,
+    "departureTime": "07:07",
+    "arrivalTime": "23:06"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/20",
+    "availableSeats": 6,
+    "price": 1816,
+    "departureTime": "08:47",
+    "arrivalTime": "19:11"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/28",
+    "availableSeats": 8,
+    "price": 1929,
+    "departureTime": "07:16",
+    "arrivalTime": "13:24"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/27",
+    "availableSeats": 3,
+    "price": 1434,
+    "departureTime": "10:55",
+    "arrivalTime": "13:58"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/30",
+    "availableSeats": 2,
+    "price": 1902,
+    "departureTime": "11:03",
+    "arrivalTime": "20:24"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/16",
+    "availableSeats": 10,
+    "price": 1328,
+    "departureTime": "11:50",
+    "arrivalTime": "23:08"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/15",
+    "availableSeats": 7,
+    "price": 1673,
+    "departureTime": "04:53",
+    "arrivalTime": "18:08"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/30",
+    "availableSeats": 10,
+    "price": 1448,
+    "departureTime": "11:19",
+    "arrivalTime": "16:08"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/09/23",
+    "availableSeats": 4,
+    "price": 1076,
+    "departureTime": "02:19",
+    "arrivalTime": "18:07"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/26",
+    "availableSeats": 7,
+    "price": 1889,
+    "departureTime": "10:46",
+    "arrivalTime": "20:51"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/04",
+    "availableSeats": 7,
+    "price": 1912,
+    "departureTime": "08:10",
+    "arrivalTime": "17:25"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/23",
+    "availableSeats": 9,
+    "price": 1205,
+    "departureTime": "08:23",
+    "arrivalTime": "15:19"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/03",
+    "availableSeats": 7,
+    "price": 1710,
+    "departureTime": "03:39",
+    "arrivalTime": "13:29"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/17",
+    "availableSeats": 2,
+    "price": 1953,
+    "departureTime": "01:49",
+    "arrivalTime": "17:36"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/09",
+    "availableSeats": 4,
+    "price": 1215,
+    "departureTime": "02:09",
+    "arrivalTime": "21:42"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/21",
+    "availableSeats": 2,
+    "price": 1882,
+    "departureTime": "01:43",
+    "arrivalTime": "13:52"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/16",
+    "availableSeats": 8,
+    "price": 1102,
+    "departureTime": "04:08",
+    "arrivalTime": "22:21"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/02",
+    "availableSeats": 7,
+    "price": 1696,
+    "departureTime": "03:02",
+    "arrivalTime": "20:23"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/25",
+    "availableSeats": 2,
+    "price": 1911,
+    "departureTime": "05:01",
+    "arrivalTime": "17:40"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/10",
+    "availableSeats": 2,
+    "price": 1594,
+    "departureTime": "08:06",
+    "arrivalTime": "14:15"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/09/29",
+    "availableSeats": 6,
+    "price": 1933,
+    "departureTime": "02:43",
+    "arrivalTime": "22:22"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/24",
+    "availableSeats": 3,
+    "price": 1980,
+    "departureTime": "02:13",
+    "arrivalTime": "20:38"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/09",
+    "availableSeats": 7,
+    "price": 1713,
+    "departureTime": "03:21",
+    "arrivalTime": "13:25"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/15",
+    "availableSeats": 3,
+    "price": 1115,
+    "departureTime": "08:58",
+    "arrivalTime": "18:01"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/10",
+    "availableSeats": 6,
+    "price": 1882,
+    "departureTime": "02:16",
+    "arrivalTime": "23:30"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/27",
+    "availableSeats": 7,
+    "price": 1515,
+    "departureTime": "07:37",
+    "arrivalTime": "19:24"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/26",
+    "availableSeats": 1,
+    "price": 1815,
+    "departureTime": "11:57",
+    "arrivalTime": "23:28"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/22",
+    "availableSeats": 9,
+    "price": 1243,
+    "departureTime": "10:00",
+    "arrivalTime": "19:43"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/09/30",
+    "availableSeats": 4,
+    "price": 1937,
+    "departureTime": "04:03",
+    "arrivalTime": "23:42"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/22",
+    "availableSeats": 6,
+    "price": 1438,
+    "departureTime": "01:27",
+    "arrivalTime": "15:44"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/09/27",
+    "availableSeats": 4,
+    "price": 1359,
+    "departureTime": "07:09",
+    "arrivalTime": "18:52"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/22",
+    "availableSeats": 5,
+    "price": 1450,
+    "departureTime": "11:57",
+    "arrivalTime": "21:45"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/29",
+    "availableSeats": 4,
+    "price": 1908,
+    "departureTime": "10:58",
+    "arrivalTime": "18:04"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/24",
+    "availableSeats": 7,
+    "price": 1254,
+    "departureTime": "05:20",
+    "arrivalTime": "20:06"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/24",
+    "availableSeats": 3,
+    "price": 1337,
+    "departureTime": "03:31",
+    "arrivalTime": "15:03"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/15",
+    "availableSeats": 5,
+    "price": 1603,
+    "departureTime": "01:43",
+    "arrivalTime": "18:49"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/07",
+    "availableSeats": 10,
+    "price": 1025,
+    "departureTime": "11:24",
+    "arrivalTime": "14:12"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/03",
+    "availableSeats": 7,
+    "price": 1846,
+    "departureTime": "08:05",
+    "arrivalTime": "13:28"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/26",
+    "availableSeats": 9,
+    "price": 1068,
+    "departureTime": "04:42",
+    "arrivalTime": "20:14"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/26",
+    "availableSeats": 7,
+    "price": 1737,
+    "departureTime": "10:35",
+    "arrivalTime": "19:58"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/09/26",
+    "availableSeats": 9,
+    "price": 1467,
+    "departureTime": "07:41",
+    "arrivalTime": "15:44"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/25",
+    "availableSeats": 2,
+    "price": 1055,
+    "departureTime": "07:51",
+    "arrivalTime": "22:46"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/28",
+    "availableSeats": 2,
+    "price": 1333,
+    "departureTime": "05:46",
+    "arrivalTime": "17:50"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/27",
+    "availableSeats": 6,
+    "price": 1153,
+    "departureTime": "09:23",
+    "arrivalTime": "22:37"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/30",
+    "availableSeats": 3,
+    "price": 1129,
+    "departureTime": "02:06",
+    "arrivalTime": "22:39"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/17",
+    "availableSeats": 9,
+    "price": 1557,
+    "departureTime": "12:21",
+    "arrivalTime": "19:43"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/10",
+    "availableSeats": 8,
+    "price": 1901,
+    "departureTime": "04:56",
+    "arrivalTime": "21:42"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/04",
+    "availableSeats": 6,
+    "price": 1601,
+    "departureTime": "02:49",
+    "arrivalTime": "13:47"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/28",
+    "availableSeats": 7,
+    "price": 1056,
+    "departureTime": "10:35",
+    "arrivalTime": "13:14"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/17",
+    "availableSeats": 3,
+    "price": 1049,
+    "departureTime": "03:27",
+    "arrivalTime": "12:35"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/26",
+    "availableSeats": 5,
+    "price": 1807,
+    "departureTime": "07:51",
+    "arrivalTime": "18:25"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/27",
+    "availableSeats": 6,
+    "price": 1124,
+    "departureTime": "06:36",
+    "arrivalTime": "14:41"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/12",
+    "availableSeats": 4,
+    "price": 1906,
+    "departureTime": "07:53",
+    "arrivalTime": "19:46"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/06",
+    "availableSeats": 6,
+    "price": 1228,
+    "departureTime": "03:08",
+    "arrivalTime": "22:44"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/09",
+    "availableSeats": 7,
+    "price": 1226,
+    "departureTime": "08:53",
+    "arrivalTime": "15:44"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/09",
+    "availableSeats": 5,
+    "price": 1051,
+    "departureTime": "05:38",
+    "arrivalTime": "21:57"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/12",
+    "availableSeats": 10,
+    "price": 1303,
+    "departureTime": "01:17",
+    "arrivalTime": "23:25"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/22",
+    "availableSeats": 3,
+    "price": 1241,
+    "departureTime": "05:29",
+    "arrivalTime": "14:21"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/09/27",
+    "availableSeats": 5,
+    "price": 1103,
+    "departureTime": "07:18",
+    "arrivalTime": "18:19"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/15",
+    "availableSeats": 7,
+    "price": 1232,
+    "departureTime": "10:29",
+    "arrivalTime": "18:58"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/07",
+    "availableSeats": 3,
+    "price": 1294,
+    "departureTime": "01:22",
+    "arrivalTime": "19:12"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/05",
+    "availableSeats": 6,
+    "price": 1512,
+    "departureTime": "01:08",
+    "arrivalTime": "23:45"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/09/25",
+    "availableSeats": 8,
+    "price": 1939,
+    "departureTime": "08:21",
+    "arrivalTime": "23:22"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/09/24",
+    "availableSeats": 9,
+    "price": 1103,
+    "departureTime": "11:49",
+    "arrivalTime": "17:13"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/23",
+    "availableSeats": 4,
+    "price": 1852,
+    "departureTime": "12:41",
+    "arrivalTime": "14:12"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/09/30",
+    "availableSeats": 5,
+    "price": 1265,
+    "departureTime": "01:13",
+    "arrivalTime": "14:41"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/03",
+    "availableSeats": 7,
+    "price": 1098,
+    "departureTime": "01:24",
+    "arrivalTime": "19:20"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/28",
+    "availableSeats": 2,
+    "price": 1231,
+    "departureTime": "10:22",
+    "arrivalTime": "22:44"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/14",
+    "availableSeats": 6,
+    "price": 1411,
+    "departureTime": "04:41",
+    "arrivalTime": "12:32"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/29",
+    "availableSeats": 6,
+    "price": 1630,
+    "departureTime": "10:17",
+    "arrivalTime": "22:51"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/26",
+    "availableSeats": 8,
+    "price": 1664,
+    "departureTime": "04:29",
+    "arrivalTime": "14:35"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/27",
+    "availableSeats": 2,
+    "price": 1406,
+    "departureTime": "07:43",
+    "arrivalTime": "12:33"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/17",
+    "availableSeats": 1,
+    "price": 1757,
+    "departureTime": "09:38",
+    "arrivalTime": "12:31"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/03",
+    "availableSeats": 9,
+    "price": 1828,
+    "departureTime": "03:27",
+    "arrivalTime": "23:21"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/28",
+    "availableSeats": 2,
+    "price": 1737,
+    "departureTime": "05:55",
+    "arrivalTime": "20:40"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/03",
+    "availableSeats": 5,
+    "price": 1463,
+    "departureTime": "10:27",
+    "arrivalTime": "14:37"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/25",
+    "availableSeats": 7,
+    "price": 1867,
+    "departureTime": "05:42",
+    "arrivalTime": "15:12"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/27",
+    "availableSeats": 1,
+    "price": 1497,
+    "departureTime": "12:02",
+    "arrivalTime": "19:19"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/09/29",
+    "availableSeats": 6,
+    "price": 1650,
+    "departureTime": "04:40",
+    "arrivalTime": "12:01"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/26",
+    "availableSeats": 5,
+    "price": 1279,
+    "departureTime": "05:37",
+    "arrivalTime": "17:17"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/04",
+    "availableSeats": 2,
+    "price": 1169,
+    "departureTime": "05:40",
+    "arrivalTime": "23:03"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/07",
+    "availableSeats": 7,
+    "price": 1400,
+    "departureTime": "08:44",
+    "arrivalTime": "17:31"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/16",
+    "availableSeats": 7,
+    "price": 1392,
+    "departureTime": "11:19",
+    "arrivalTime": "22:26"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/09/24",
+    "availableSeats": 5,
+    "price": 1445,
+    "departureTime": "01:47",
+    "arrivalTime": "23:25"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/09/25",
+    "availableSeats": 3,
+    "price": 1821,
+    "departureTime": "11:28",
+    "arrivalTime": "15:11"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/26",
+    "availableSeats": 5,
+    "price": 1650,
+    "departureTime": "05:35",
+    "arrivalTime": "13:47"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/09/27",
+    "availableSeats": 7,
+    "price": 1088,
+    "departureTime": "06:33",
+    "arrivalTime": "23:47"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/06",
+    "availableSeats": 3,
+    "price": 1795,
+    "departureTime": "10:00",
+    "arrivalTime": "21:08"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/29",
+    "availableSeats": 6,
+    "price": 1848,
+    "departureTime": "04:26",
+    "arrivalTime": "14:12"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/09/26",
+    "availableSeats": 1,
+    "price": 1600,
+    "departureTime": "06:11",
+    "arrivalTime": "20:28"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/21",
+    "availableSeats": 7,
+    "price": 1631,
+    "departureTime": "09:13",
+    "arrivalTime": "13:49"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/14",
+    "availableSeats": 5,
+    "price": 1509,
+    "departureTime": "10:54",
+    "arrivalTime": "19:31"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/09/28",
+    "availableSeats": 2,
+    "price": 1840,
+    "departureTime": "05:27",
+    "arrivalTime": "21:48"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/19",
+    "availableSeats": 1,
+    "price": 1707,
+    "departureTime": "06:27",
+    "arrivalTime": "14:18"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/25",
+    "availableSeats": 5,
+    "price": 1501,
+    "departureTime": "06:32",
+    "arrivalTime": "14:14"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/21",
+    "availableSeats": 4,
+    "price": 1179,
+    "departureTime": "03:47",
+    "arrivalTime": "17:35"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/13",
+    "availableSeats": 10,
+    "price": 1245,
+    "departureTime": "07:00",
+    "arrivalTime": "13:08"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/09/30",
+    "availableSeats": 6,
+    "price": 1582,
+    "departureTime": "03:31",
+    "arrivalTime": "17:51"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/09",
+    "availableSeats": 5,
+    "price": 1933,
+    "departureTime": "05:39",
+    "arrivalTime": "12:51"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/18",
+    "availableSeats": 2,
+    "price": 1880,
+    "departureTime": "05:20",
+    "arrivalTime": "20:07"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/09/27",
+    "availableSeats": 7,
+    "price": 1616,
+    "departureTime": "03:08",
+    "arrivalTime": "12:39"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/16",
+    "availableSeats": 5,
+    "price": 1534,
+    "departureTime": "06:42",
+    "arrivalTime": "17:31"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/10/25",
+    "availableSeats": 9,
+    "price": 1155,
+    "departureTime": "02:07",
+    "arrivalTime": "21:14"
+  },
+  {
+    "departureAirport": "Johannesburg",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/09",
+    "availableSeats": 5,
+    "price": 1409,
+    "departureTime": "08:55",
+    "arrivalTime": "13:19"
+  },
+  {
+    "departureAirport": "Cape Town",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/27",
+    "availableSeats": 4,
+    "price": 1687,
+    "departureTime": "09:32",
+    "arrivalTime": "21:06"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Eindhoven",
+    "departureDate": "2022/09/27",
+    "availableSeats": 4,
+    "price": 1340,
+    "departureTime": "04:09",
+    "arrivalTime": "22:19"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Rotterdam",
+    "departureDate": "2022/10/03",
+    "availableSeats": 2,
+    "price": 1655,
+    "departureTime": "10:47",
+    "arrivalTime": "15:04"
+  },
+  {
+    "departureAirport": "Port Elizabeth",
+    "arrivalAirport": "Amsterdam",
+    "departureDate": "2022/10/10",
+    "availableSeats": 4,
+    "price": 1218,
+    "departureTime": "10:19",
+    "arrivalTime": "21:12"
+  }
+]
